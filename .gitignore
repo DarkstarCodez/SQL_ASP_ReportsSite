@@ -245,10 +245,7 @@ UpgradeLog*.htm
 ServiceFabricBackup/
 *.rptproj.bak
 
-# SQL Server files
-*.mdf
-*.ldf
-*.ndf
+
 
 # Business Intelligence projects
 *.rdl.data
@@ -338,3 +335,4 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/SQL_ASP_ReportsSite/App_Data
